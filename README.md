@@ -5,7 +5,7 @@
 I'm a software reverse engineer with a passion for AI security! I love tackling complex problems, learning new skills, and being curious everyday.
 
 - Currently learning: [AI Safety](https://boazbk.github.io/mltheoryseminar/) from Boaz Barak, [Agentic AI](https://agenticai-learning.org/f25) from Dawn Song
-- Working on: Adversarial ML, Agent Security 
+- Working on: Adversarial ML 
 - How to reach me: ezbelay@gmail.com
 - Fun fact: I love playing soccer. Devoted to Real Madrid & Arsenal! 
 
